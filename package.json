@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "emmet": "^2.3.6",
+    "live": "^0.1.25-beta.0"
+  }
+}
